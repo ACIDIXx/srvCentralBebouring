@@ -1,0 +1,6 @@
+Starting at: 2017-11-15 13:06:20.449000 
+Is active : ['1\n'] 
+Modification Alarm state save at: 2017-11-15 13:06:29.474000 
+['1\n'] 
+Modification Alarm state save at: 2017-11-15 13:06:37.765000 
+['0\n'] 

@@ -1,0 +1,6 @@
+Code Communication Alarm over TCP
+0 : alarme désactivée
+1 : alarme activée
+3 : Alarme active ?
+stream : lancement du stream 
+stop : disconnect from server
